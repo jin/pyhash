@@ -1,5 +1,6 @@
 #!/usr/bin/env python
-
+#
+#syntax: $python calculatehash.py file/folder/to/index/
 import sys
 import hashlib
 import os
