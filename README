@@ -2,4 +2,4 @@ calculatehash.py:
 generates md5sums for all files in a folder and its subdirectories, writes it into a file called output.txt.
 
 hashfinder.py:
-take a 32 byte md5sum and compare with all files in a stated folder and its subdirectories, check for any positive matches.
+take a 32 byte md5sum and compare with all files a stated folder and its subdirectories, check for any positive matches.
