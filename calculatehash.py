@@ -34,7 +34,7 @@ def main():                         #main function
         output.write(entry + "\t" + md5index[entry] + "\n") #write into the output.txt, with a tab spacing between filename and hash
                 
     output.close()  #close the file
-    print "Success!" + "\n" "All filenames and their respective md5sums are indexed in output.txt"  #print success message when done
+    print "Success!" + "\n" + "All filenames and their respective md5sums are indexed in output.txt"  #print success message when done
 
 
 
